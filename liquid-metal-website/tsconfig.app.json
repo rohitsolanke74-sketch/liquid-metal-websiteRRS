@@ -11,6 +11,7 @@
     "verbatimModuleSyntax": true,
     "moduleDetection": "force",
     "noEmit": true,
+     "noUncheckedSideEffectImports": false,
     "jsx": "react-jsx",
     "strict": true,
     "paths": {
